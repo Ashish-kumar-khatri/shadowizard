@@ -1,6 +1,11 @@
 # shadowizard
 
-# Installation
+```
+    This package lets you add simple soft and hard shadow in the images in your webpages
+```
+
+## Installation
+
 `npm i shadowizard`
 
 Then...
