@@ -1,4 +1,4 @@
-# shadowizard
+# shadowizard - it's nothing just learning to publish in npm
 
 ```
     This package lets you add simple soft and hard shadow in the images in your webpages
